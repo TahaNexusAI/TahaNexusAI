@@ -1,16 +1,19 @@
-# 👋 Salut, je suis **Taha Remadna** — alias **TahaNexusAI**
+<!-- HEADER -->
+<h1 align="center">👋 Salut, je suis <strong>Taha Remadna</strong> — alias <span style="color:#00BFFF;">TahaNexusAI</span></h1>
 
-🎓 Étudiant en **Cybersécurité et Infonuagique** à l’UQTR  
-💻 Passionné par la sécurité informatique, les réseaux et l’intelligence artificielle  
-🚀 Je partage ici mes apprentissages, mes projets d’études et mes expériences dans le monde du **Cyber + Cloud + AI**
+<p align="center">
+🎓 Étudiant en <b>Cybersécurité et Infonuagique</b> à l’UQTR <br>
+💻 Passionné par la <b>sécurité informatique, le cloud et l’intelligence artificielle</b> <br>
+🚀 En apprentissage continu pour devenir un professionnel polyvalent entre <b>Cyber + Cloud + AI</b>
+</p>
 
 ---
 
 ### 🧠 À propos de moi
-- 🔐 J’apprends à sécuriser et analyser des environnements réseau à travers mes cours et laboratoires.  
-- ☁️ J’explore les outils du **cloud computing** et de l’**automatisation intelligente**.  
-- 💡 J’aime comprendre comment les systèmes fonctionnent, comment ils peuvent être attaqués — et surtout, protégés.  
-- 📈 Mon objectif : devenir un professionnel polyvalent entre **cybersécurité, cloud et IA**.
+- 🔐 J’apprends à sécuriser et analyser des environnements réseau à travers mes cours et projets.  
+- ☁️ J’expérimente des outils du **cloud computing** et de l’**automatisation intelligente**.  
+- 💡 Je suis curieux de comprendre comment les systèmes sont attaqués... et comment mieux les protéger.  
+- 📈 Mon objectif : progresser chaque jour dans les domaines **cyber, IA et infonuagique**.
 
 ---
 
@@ -26,18 +29,37 @@
 
 ---
 
-### 📂 Projets en cours
-- **CyberLab** → mon laboratoire d’apprentissage en cybersécurité.  
-- **AI Security Bot** → un projet personnel d’automatisation AI pour la sécurité.  
-- **Cloud Monitor** → tableau de bord pour observer des environnements infonuagiques.
+### 📊 Statistiques GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TahaNexusAI&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaNexusAI&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 🏆 Badges & Activité
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TahaNexusAI&label=Visiteurs&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Étudiant-Cybersécurité-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-Infonuagique-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/IA-Automatisation-green?style=flat-square" />
+</p>
 
 ---
 
 ### 🌍 Me retrouver
-- 💼 [LinkedIn](https://www.linkedin.com/in/taha-remadna/)  
-- 📧 [Email](mailto:remadna.taha@gmail.com)  
-    
+<p align="center">
+  <a href="https://www.linkedin.com/in/taha-remadna/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Taha%20Remadna-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:remadna.taha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://tryhackme.com/p/TahaNexusAI" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-TahaNexusAI-black?style=for-the-badge&logo=tryhackme" />
+  </a>
+</p>
 
 ---
 
-> _“Apprendre chaque jour, construire petit à petit.”_ — **TahaNexusAI**
+<h4 align="center">_“Apprendre chaque jour, construire petit à petit.”_ — <b>TahaNexusAI</b></h4>
