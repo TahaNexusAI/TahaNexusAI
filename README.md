@@ -49,15 +49,13 @@
 
 ### 🌍 Me retrouver
 <p align="center">
-  <a href="https://www.linkedin.com/in/taha-remadna/" target="_blank">
+   <a href="https://www.linkedin.com/in/taha-remadna-297a74208/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Taha%20Remadna-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:remadna.taha@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20me-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://tryhackme.com/p/TahaNexusAI" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-TahaNexusAI-black?style=for-the-badge&logo=tryhackme" />
-  </a>
+  
 </p>
 
 ---
