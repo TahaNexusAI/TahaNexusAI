@@ -14,14 +14,16 @@
 
 ---
 
-### 🧰 Compétences techniques
-| Domaine | Technologies / Outils |
-|----------|------------------------|
-| 🔐 **Cybersécurité** | Kali Linux, Wireshark, OWASP, TryHackMe |
+### 🧠 Compétences techniques (en apprentissage)
+
+| Domaine | Technologies / Outils explorés |
+|----------|-------------------------------|
+| 🔐 **Cybersécurité (en formation)** | Kali Linux, Wireshark, OWASP, TryHackMe |
 | ☁️ **Cloud & Réseaux** | Docker, Oracle Cloud, Cisco Packet Tracer |
-| 💻 **Programmation** | Python, C#, Bash, Java |
-| 🤖 **IA & Automatisation** | n8n, OpenAI API, LangChain |
-| 🗄️ **Bases de données** | SQL, Oracle, MongoDB |
+| 💻 **Programmation** | Python, C#, Bash, Java (niveau étudiant) |
+| 🤖 **IA & Automatisation** | n8n, OpenAI API, LangChain (projets d’expérimentation) |
+| 🗄️ **Bases de données** | SQL, Oracle, MongoDB (bases pratiques) |
+
 
 ---
 
