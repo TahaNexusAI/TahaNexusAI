@@ -1,16 +1,16 @@
 # 👋 Salut, je suis **Taha Remadna** — alias **TahaNexusAI**
 
 🎓 Étudiant en **Cybersécurité et Infonuagique** à l’UQTR  
-💻 Passionné par la **sécurité des systèmes**, le **cloud computing**, et l’**intelligence artificielle appliquée**  
-🚀 En train de bâtir mon parcours vers une carrière d’expert en **Cyber + AI**  
+💻 Passionné par la sécurité informatique, les réseaux et l’intelligence artificielle  
+🚀 Je partage ici mes apprentissages, mes projets d’études et mes expériences dans le monde du **Cyber + Cloud + AI**
 
 ---
 
 ### 🧠 À propos de moi
-- 🔐 Je construis mon propre **CyberLab** pour expérimenter et apprendre la sécurité offensive et défensive.  
-- ☁️ J’explore les technologies **Cloud (Docker, Oracle Cloud, Cisco CCNA)**.  
-- 🤖 J’intègre l’**IA dans l’automatisation et la cybersécurité** (n8n, OpenAI API).  
-- 🧩 J’aime transformer des idées en projets concrets et partagés sur GitHub.  
+- 🔐 J’apprends à sécuriser et analyser des environnements réseau à travers mes cours et laboratoires.  
+- ☁️ J’explore les outils du **cloud computing** et de l’**automatisation intelligente**.  
+- 💡 J’aime comprendre comment les systèmes fonctionnent, comment ils peuvent être attaqués — et surtout, protégés.  
+- 📈 Mon objectif : devenir un professionnel polyvalent entre **cybersécurité, cloud et IA**.
 
 ---
 
@@ -24,13 +24,12 @@
 | 🤖 **IA & Automatisation** | n8n, OpenAI API, LangChain (projets d’expérimentation) |
 | 🗄️ **Bases de données** | SQL, Oracle, MongoDB (bases pratiques) |
 
-
 ---
 
-### 📂 Projets à venir
+### 📂 Projets en cours
 - **CyberLab** → mon laboratoire d’apprentissage en cybersécurité.  
-- **AI Security Bot** → assistant d’analyse automatisée de sécurité.  
-- **Cloud Monitor** → dashboard intelligent de sécurité infonuagique.  
+- **AI Security Bot** → un projet personnel d’automatisation AI pour la sécurité.  
+- **Cloud Monitor** → tableau de bord pour observer des environnements infonuagiques.
 
 ---
 
@@ -38,8 +37,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/taha-remadna/)  
 - 📧 [Email](mailto:remadna.taha@gmail.com)  
     
-   
 
 ---
 
-> _“Build. Break. Secure. Automate.”_ — **TahaNexusAI**
+> _“Apprendre chaque jour, construire petit à petit.”_ — **TahaNexusAI**
